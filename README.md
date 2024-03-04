@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is a detailed record that aims to provide a transparent account of the analytical process employed in my HR data analytics project. The objective of this project is not only to showcase my ability to work with  python to extract and prepare data for use, but also to answer crucial questions from a large or complex dataset.
+This is a detailed record that aims to provide a transparent account of the analytical process employed in my HR data analytics project. The objective of this project is not only to showcase my ability to work with  python to extract and prepare data for use, but also to answer crucial questions from a large or complex datasets.
 
 
 ## Data Sorce
@@ -20,7 +20,7 @@ HR data: The dataset used in this analysis is a ".xlsx" file,containing detailed
 1. What is the total salary progression over time(Year) for each department.
 2. total number of employees by employment type per department.
 3. what is the gender breakdown of employees in the company for each department.
-4. top 10 highest paid enployees per department.
+4. top 3 highest paid enployees per department.
 
 
 ##  Tools Used
@@ -28,9 +28,9 @@ HR data: The dataset used in this analysis is a ".xlsx" file,containing detailed
 
 |Library|Function|
 |-------|--------|
-|Pandas |For building and working with data framework|
-|Matplotlib|For data visualization|
-|Datetime|for working with datetime datatypes|
+|Pandas |Provides a functional framework for handelin larg datasets.|
+|Matplotlib|For data visualization.|
+|Datetime|for working with datetime datatypes.|
 
 
 ## Data Preparation
