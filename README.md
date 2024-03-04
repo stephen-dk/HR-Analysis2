@@ -63,5 +63,6 @@ The following tasks were performed in the preparation phase.
 ## Result And Conclution 
 
 - Total money spent on employee salary was highest in 2020 and lowest in 2018.
-- The sales department has 12 permanent,2 fixed term and 2 tempotary employees
-- 
+- The sales department has 12 permanent,2 fixed term and 2 tempotary employees.
+- 44% of total employees in sales are male and 56% are female.
+- The top 3 highest paid employees in sales are Freda Legan, Antonetta Coggeshall and Roselle Wandrach.
