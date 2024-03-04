@@ -5,5 +5,7 @@
 
 ## Introduction
 
-This is a detailed record that aims to provide a transparent account of the analytical process employed in my HR data analytics project. The objective of this project is not only to showcase my ability to work with  python to extract and prepare data for use but also to answer crucial questions and 
+This is a detailed record that aims to provide a transparent account of the analytical process employed in my HR data analytics project. The objective of this project is not only to showcase my ability to work with  python to extract and prepare data for use, but also to answer crucial questions from a large or complex dataset.
+
+
 
