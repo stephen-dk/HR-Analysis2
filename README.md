@@ -27,8 +27,8 @@ HR data: The dataset used in this analysis is a ".xlsx" file,containing detailed
 - Python 
 
 |Library|Function|
-|.......|........|
-|Pandas|For building and working with data framework|
+|-------|--------|
+|Pandas |For building and working with data framework|
 |Matplotlib|For data visualization|
 |Datetime|for working with datetime datatypes|
 
