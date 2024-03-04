@@ -54,6 +54,29 @@ The following tasks were performed in the preparation phase.
 ![py_clean](https://github.com/stephen-dk/HR-Analysis2/assets/144712896/1dcac6fb-c6a4-4b18-a9d9-f77893f6ce52)
 --
 
+## How It Works
+This project takes an input from the user and outpt the required result
+
+```python
+ i= input("""DEPARTMENTS
+                
+                Research and Development
+                Sales
+                Human Resources
+                Support
+                Training
+                Marketing
+                Product Management
+                Accounting
+                Services
+                Engineering
+                Business Development
+                Legal
+                
+                ^pick a department   :   """)
+```
+
+
 ## Data Visualization
 
 ![python2](https://github.com/stephen-dk/HR-Analysis2/assets/144712896/5a2d9b4f-4e86-471b-95e4-289c11f785f1)
